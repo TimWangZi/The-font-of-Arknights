@@ -7,6 +7,7 @@
 * **思源宋体系列**: 在游戏中常用于比较正式的中文词或句子,位于`font\思源宋体`文件夹
 * **Bender系列**: 在游戏中常用于数字和UI效果表现,位于`font\Bender`文件夹  
 * **Georgia**(电脑自带): 和Times New Roman用法差不多,位于`font\Georgia.ttf`  
+* **Novecento wide**:在游戏中常用于表现现代感较强的英文文本,位于`font\Novecento-Wide-Normal-2.otf`
 
 如有不全，欢迎补充
 
@@ -18,6 +19,8 @@
 > 思源宋体：不可只单纯销售这一字体。所以若想贩售，必得搭配其他产品，例如其他字体、软件等。(SIL)  
 > Bender系列: 商用免费。(资料可能不准确)  
 > Times New Roman: [许可权](https://www.fonts.com/font/monotype/times-new-roman/licenses)  
-> Georgia: [许可权](https://docs.microsoft.com/zh-cn/typography/font-list/georgia)
+> Georgia: [许可权](https://docs.microsoft.com/zh-cn/typography/font-list/georgia)  
+> Novecento wide: [许可权](https://www.fontsquirrel.com/license/novecento-wide)
 ## 其他
 本人还是学生，学业要紧，所以不可能经常维护。
+2020/6/14/18:19更新
